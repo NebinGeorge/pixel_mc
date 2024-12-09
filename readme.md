@@ -2,5 +2,4 @@
 
 Analysis done by 
 
-Total files:
-Mometume, PID and PHI, theta
+Total files: 577
