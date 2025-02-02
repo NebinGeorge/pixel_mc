@@ -35,6 +35,8 @@ PHI BIN : [0,1,2,3,4,5,6,7], corresponding PHI VALUE: [0, 45, 90, 135, 180, 225,
 | 5           | 225 |
 | 6           | 270 |
 | 7           | 315 |
+
+
 Link for digitized hits files: https://github.com/NebinGeorge/pixel
 
 
